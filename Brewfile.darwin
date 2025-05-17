@@ -1,0 +1,16 @@
+tap felixkratz/formulae
+tap nikitabobko/tap
+brew felixkratz/formulae/borders
+brew felixkratz/formulae/sketchybar
+brew choose-gui
+brew wireguard-tools
+cask aerospace
+cask bitwarden
+cask karabiner-elements
+cask microsoft-outlook
+cask microsoft-teams
+cask onedrive
+cask raycast
+cask slack
+brew pinentry-mac
+brew cask
